@@ -18,7 +18,10 @@ module.exports = function(grunt){
 			// }, // scripts
 			php: {
 				files: ['*.php']
-			} // php
+			}, // php
+			php_files: {
+				files: ['admin/*.php']
+			}
 		} // watch
 	}) // initConfig
 	grunt.registerTask('default','watch');
