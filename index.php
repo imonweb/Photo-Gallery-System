@@ -1,4 +1,5 @@
 <?php include("includes/header.php"); ?>
+<script src="http://localhost:35729/livereload.js"></script>
 
 
         <div class="row">
@@ -7,10 +8,8 @@
             <div class="col-md-8">
 
     
-            
-          
          
-
+hello
             </div>
 
 
